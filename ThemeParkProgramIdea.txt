@@ -3,6 +3,7 @@ Theme Park Management Program
 What the user should/would want to see
 -General overview of the park that corresponds to the current day and time
  ( relevant wait times for rides, shows, restaurants, park schedule/hours, other relevant info)
+ ^more should be added here to describe what exactly the program will manage^
 
 -Should be able to specify an area of the park that they would want to look at
 and delve deeper from there
